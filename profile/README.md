@@ -38,7 +38,7 @@
 
 > - 기여하려는 레포지토리에 대한 contribution guide가 이미 명시되어 있다면 이를 따를 것
 
-> - 기존의 코드와 커밋 내역을 분석하고 최대한 기존의 coding & commit convention을 존중할 것
+> - 프로젝트의 코드와 커밋 내역을 분석하고 최대한 기존의 coding & commit convention을 존중할 것
 
 > - Pull Request 시 본인이 구현 및 개선한 기능에 대한 충분한 설명을 제공할 것
 
